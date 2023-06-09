@@ -1,4 +1,4 @@
 package Test;
 
-public class test3New {
+public class test3 {
 }
